@@ -1,0 +1,437 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "MechJam Win64 Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"MechJam",
+				"Win64",
+				"Debug",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		},
+		{
+			"label": "MechJam Win64 Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"MechJam",
+				"Win64",
+				"Debug",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"MechJam Win64 Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		},
+		{
+			"label": "MechJam Win64 Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"MechJam",
+				"Win64",
+				"Debug",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		},
+		{
+			"label": "MechJam Win64 DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"MechJam",
+				"Win64",
+				"DebugGame",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		},
+		{
+			"label": "MechJam Win64 DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"MechJam",
+				"Win64",
+				"DebugGame",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"MechJam Win64 DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		},
+		{
+			"label": "MechJam Win64 DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"MechJam",
+				"Win64",
+				"DebugGame",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		},
+		{
+			"label": "MechJam Win64 Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"MechJam",
+				"Win64",
+				"Development",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		},
+		{
+			"label": "MechJam Win64 Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"MechJam",
+				"Win64",
+				"Development",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"MechJam Win64 Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		},
+		{
+			"label": "MechJam Win64 Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"MechJam",
+				"Win64",
+				"Development",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		},
+		{
+			"label": "MechJam Win64 Test Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"MechJam",
+				"Win64",
+				"Test",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		},
+		{
+			"label": "MechJam Win64 Test Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"MechJam",
+				"Win64",
+				"Test",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"MechJam Win64 Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		},
+		{
+			"label": "MechJam Win64 Test Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"MechJam",
+				"Win64",
+				"Test",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		},
+		{
+			"label": "MechJam Win64 Shipping Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"MechJam",
+				"Win64",
+				"Shipping",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		},
+		{
+			"label": "MechJam Win64 Shipping Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"MechJam",
+				"Win64",
+				"Shipping",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"MechJam Win64 Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		},
+		{
+			"label": "MechJam Win64 Shipping Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"MechJam",
+				"Win64",
+				"Shipping",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		},
+		{
+			"label": "MechJamEditor Win64 Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"MechJamEditor",
+				"Win64",
+				"Debug",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		},
+		{
+			"label": "MechJamEditor Win64 Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"MechJamEditor",
+				"Win64",
+				"Debug",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"MechJamEditor Win64 Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		},
+		{
+			"label": "MechJamEditor Win64 Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"MechJamEditor",
+				"Win64",
+				"Debug",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		},
+		{
+			"label": "MechJamEditor Win64 DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"MechJamEditor",
+				"Win64",
+				"DebugGame",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		},
+		{
+			"label": "MechJamEditor Win64 DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"MechJamEditor",
+				"Win64",
+				"DebugGame",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"MechJamEditor Win64 DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		},
+		{
+			"label": "MechJamEditor Win64 DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"MechJamEditor",
+				"Win64",
+				"DebugGame",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		},
+		{
+			"label": "MechJamEditor Win64 Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"MechJamEditor",
+				"Win64",
+				"Development",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		},
+		{
+			"label": "MechJamEditor Win64 Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"MechJamEditor",
+				"Win64",
+				"Development",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"MechJamEditor Win64 Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		},
+		{
+			"label": "MechJamEditor Win64 Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"MechJamEditor",
+				"Win64",
+				"Development",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "F:\\Soft\\UE\\UE_5.0"
+			}
+		}
+	]
+}

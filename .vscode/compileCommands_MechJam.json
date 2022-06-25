@@ -1,0 +1,27 @@
+[
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\Source\\MechJam\\MechJam.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\.vscode\\compileCommands_MechJam\\MechJam.211.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\Source\\MechJam\\MechJam.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\.vscode\\compileCommands_MechJam\\MechJam.211.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\Source\\MechJam\\MechJam.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\.vscode\\compileCommands_MechJam\\MechJam.211.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\Source\\MechJam\\MechJamGameModeBase.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\.vscode\\compileCommands_MechJam\\MechJam.211.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\Source\\MechJam\\MechJamGameModeBase.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\.vscode\\compileCommands_MechJam\\MechJam.211.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	}
+]
