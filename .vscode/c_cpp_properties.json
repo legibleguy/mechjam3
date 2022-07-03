@@ -3,14 +3,14 @@
         {
             "name": "MechJamEditor Editor Win64 Development (MechJam)",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\.vscode\\compileCommands_MechJam.json",
+            "compileCommands": "F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam.json",
             "cStandard": "c17",
             "cppStandard": "c++17"
         },
         {
             "name": "Win32",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\.vscode\\compileCommands_Default.json",
+            "compileCommands": "F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_Default.json",
             "cStandard": "c17",
             "cppStandard": "c++17"
         }

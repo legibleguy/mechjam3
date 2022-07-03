@@ -9,7 +9,7 @@
 				"MechJam",
 				"Win64",
 				"Debug",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -26,7 +26,7 @@
 				"MechJam",
 				"Win64",
 				"Debug",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -46,7 +46,7 @@
 				"MechJam",
 				"Win64",
 				"Debug",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -63,7 +63,7 @@
 				"MechJam",
 				"Win64",
 				"DebugGame",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -80,7 +80,7 @@
 				"MechJam",
 				"Win64",
 				"DebugGame",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -100,7 +100,7 @@
 				"MechJam",
 				"Win64",
 				"DebugGame",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -117,7 +117,7 @@
 				"MechJam",
 				"Win64",
 				"Development",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -134,7 +134,7 @@
 				"MechJam",
 				"Win64",
 				"Development",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -154,7 +154,7 @@
 				"MechJam",
 				"Win64",
 				"Development",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -171,7 +171,7 @@
 				"MechJam",
 				"Win64",
 				"Test",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -188,7 +188,7 @@
 				"MechJam",
 				"Win64",
 				"Test",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -208,7 +208,7 @@
 				"MechJam",
 				"Win64",
 				"Test",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -225,7 +225,7 @@
 				"MechJam",
 				"Win64",
 				"Shipping",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -242,7 +242,7 @@
 				"MechJam",
 				"Win64",
 				"Shipping",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -262,7 +262,7 @@
 				"MechJam",
 				"Win64",
 				"Shipping",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -279,7 +279,7 @@
 				"MechJamEditor",
 				"Win64",
 				"Debug",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -296,7 +296,7 @@
 				"MechJamEditor",
 				"Win64",
 				"Debug",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -316,7 +316,7 @@
 				"MechJamEditor",
 				"Win64",
 				"Debug",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -333,7 +333,7 @@
 				"MechJamEditor",
 				"Win64",
 				"DebugGame",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -350,7 +350,7 @@
 				"MechJamEditor",
 				"Win64",
 				"DebugGame",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -370,7 +370,7 @@
 				"MechJamEditor",
 				"Win64",
 				"DebugGame",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -387,7 +387,7 @@
 				"MechJamEditor",
 				"Win64",
 				"Development",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -404,7 +404,7 @@
 				"MechJamEditor",
 				"Win64",
 				"Development",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -424,7 +424,7 @@
 				"MechJamEditor",
 				"Win64",
 				"Development",
-				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam\\MechJam.uproject",
+				"F:\\Soft\\UE\\Projects\\mechjam3\\MechJam.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
