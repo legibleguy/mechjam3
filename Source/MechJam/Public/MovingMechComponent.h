@@ -50,8 +50,8 @@ class MECHJAM_API UMovingMechComponent : public UMechComponent
 
 		virtual void BeginPlay() override;
 
-	private:
-	UPROPERTY()
-		UFloatingPawnMovement* MovementCompRef;
+		UPROPERTY()
+			UFloatingPawnMovement* MovementCompRef;
+	
 	
 };

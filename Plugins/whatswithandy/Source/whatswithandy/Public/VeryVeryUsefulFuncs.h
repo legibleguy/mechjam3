@@ -21,5 +21,8 @@ public:
 
 	UFUNCTION(BlueprintPure)
 		static FVector GetClosestPoint(const TArray<FVector> Points, const FVector ToPoint, int32& OutIndex);
+
+	UFUNCTION(BlueprintPure)
+		static float GetAngleBetweenVectors(const FVector A, const FVector B);
 	
 };

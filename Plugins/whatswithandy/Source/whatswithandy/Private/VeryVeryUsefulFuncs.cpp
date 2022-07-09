@@ -3,6 +3,7 @@
 
 #include "VeryVeryUsefulFuncs.h"
 #include "Kismet/KismetSystemLibrary.h"
+#include "Kismet/KismetMathLibrary.h"
 
 AActor* UVeryVeryUsefulFuncs::GetClosestActor(const TArray<AActor*> Actors, const FVector ToPoint, int32& OutIndex)
 {
@@ -43,4 +44,8 @@ FVector UVeryVeryUsefulFuncs::GetClosestPoint(const TArray<FVector> Points, cons
 		}
 	}
 	return CurrentClosest;
+}
+
+float UVeryVeryUsefulFuncs::GetAngleBetweenVectors(const FVector A, const FVector B){
+	return UKismetMathLibrary::DegAcos( A.GetSafeNormal() | B.GetSafeNormal() );
 }

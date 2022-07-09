@@ -1,57 +1,57 @@
 [
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\whatswithandy\\Source\\whatswithandy\\Private\\PlayerIF.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.38.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.40.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\whatswithandy\\Source\\whatswithandy\\Private\\UniversalCameraManager.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.38.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.40.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\whatswithandy\\Source\\whatswithandy\\Private\\UniversalGameData.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.38.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.40.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\whatswithandy\\Source\\whatswithandy\\Private\\VeryVeryUsefulFuncs.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.38.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.40.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\whatswithandy\\Source\\whatswithandy\\Private\\whatswithandy.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.38.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.40.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\whatswithandy\\Source\\whatswithandy\\Public\\PlayerIF.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.38.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.40.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\whatswithandy\\Source\\whatswithandy\\Public\\UniversalCameraManager.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.38.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.40.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\whatswithandy\\Source\\whatswithandy\\Public\\UniversalGameData.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.38.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.40.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\whatswithandy\\Source\\whatswithandy\\Public\\VeryVeryUsefulFuncs.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.38.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.40.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\whatswithandy\\Source\\whatswithandy\\Public\\whatswithandy.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.38.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.40.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\whatswithandy\\Source\\whatswithandy\\whatswithandy.Build.cs",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.38.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.40.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
@@ -90,6 +90,11 @@
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\Private\\MechTracks.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.212.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\Private\\MovingMechComponent.cpp",
 		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.212.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
@@ -101,6 +106,11 @@
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\Public\\MechPawn.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.212.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\Public\\MechTracks.h",
 		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.212.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},

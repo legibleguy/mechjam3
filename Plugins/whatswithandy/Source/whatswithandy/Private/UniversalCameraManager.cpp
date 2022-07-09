@@ -17,15 +17,13 @@ FTransform AUniversalCameraManager::GetThirdPersonCameraTransform()
 	AActor* Target = FocusActor != NULL ? FocusActor : GetOwningPlayerController()->GetPawn();
 	if (Target) {
 		const FVector ActorLoc = Target->GetActorLocation();
-		const FVector ActorRight = Target->GetActorRightVector();
 		const FRotator ControlRot = GetOwningPlayerController()->GetControlRotation();
+		const FVector ActorRight = Target->GetActorRightVector().RotateAngleAxis(ControlRot.Yaw, FVector(0,0,1));
 		const float Angle = FMath::ClampAngle(ControlRot.Pitch, -45, 89);
 
 		//Location
 		FVector Loc = (FRotator(0, ControlRot.Yaw, 0).Vector() * -1.0) * ThirdPersonDistance;
-		Loc = FMath::IsWithin(ControlRot.Yaw, 90, 270) ? 
-			ActorLoc - Loc.RotateAngleAxis(Angle, ActorRight) :
-		 	ActorLoc + Loc.RotateAngleAxis(Angle, ActorRight);
+		Loc = ActorLoc + Loc.RotateAngleAxis(Angle, ActorRight);
 		Out.SetLocation(Loc);
 
 		FRotator Rot = UKismetMathLibrary::FindLookAtRotation(Loc, ActorLoc + ThirdPersonLookAtOffset);
