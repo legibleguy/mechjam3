@@ -16,6 +16,8 @@ class MECHJAM_API UMechTracks : public UMovingMechComponent
 
 	public:
 
+	UMechTracks();
+
 	virtual void TickComponent
 	(
 		float DeltaTime,

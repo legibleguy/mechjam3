@@ -18,7 +18,7 @@ FTransform AUniversalCameraManager::GetThirdPersonCameraTransform()
 	if (Target) {
 		const FVector ActorLoc = Target->GetActorLocation();
 		const FRotator ControlRot = GetOwningPlayerController()->GetControlRotation();
-		const FVector ActorRight = Target->GetActorRightVector().RotateAngleAxis(ControlRot.Yaw, FVector(0,0,1));
+		const FVector ActorRight = FRotator(0,ControlRot.Yaw + 90,0).Vector();
 		const float Angle = FMath::ClampAngle(ControlRot.Pitch, -45, 89);
 
 		//Location

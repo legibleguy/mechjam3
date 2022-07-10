@@ -5,16 +5,16 @@
 #include "Kismet/KismetMathLibrary.h"
 #include "VeryVeryUsefulFuncs.h"
 
+UMechTracks::UMechTracks(){
+    TracksRotationSpeed = 7.f;
+}
+
 void UMechTracks::MoveFB(float Val){
     CurrFB = Val;
-    TracksRotationSpeed = 7.f;
-    // WantsToMoveFB = Val != 0.f;
-    // MovementCompRef->GetPawnOwner()->GetControlRotation().
 }
 
 void UMechTracks::MoveRL(float Val){
     CurrRL = Val;
-    // WantsToMoveRL = Val != 0.f;
 }
 
 void UMechTracks::TickComponent(float DeltaTime, enum ELevelTick TickType, FActorComponentTickFunction * ThisTickFunction){
@@ -33,10 +33,18 @@ void UMechTracks::TickComponent(float DeltaTime, enum ELevelTick TickType, FActo
                 0
             );
 
-            FRotator SmoothedRot = UKismetMathLibrary::RInterpTo(MovementCompRef->GetPawnOwner()->GetActorRotation(),
-            TargetRot, DeltaTime, TracksRotationSpeed);
+            float Delta = (TargetRot - MovementCompRef->GetPawnOwner()->GetActorRotation()).Yaw;
 
-            MovementCompRef->GetPawnOwner()->SetActorRotation();
+            if(FMath::Abs(Delta) > 5.f){
+                FRotator SmoothedRot = UKismetMathLibrary::RInterpTo(MovementCompRef->GetPawnOwner()->GetActorRotation(),
+                TargetRot, DeltaTime, TracksRotationSpeed);
+
+                MovementCompRef->GetPawnOwner()->SetActorRotation(SmoothedRot);
+            }
+            if(FMath::Abs(Delta) < 45.f){
+                MovementCompRef->AddInputVector(MovementCompRef->GetPawnOwner()->GetActorForwardVector());
+            }
+            
         }
     }
 }
