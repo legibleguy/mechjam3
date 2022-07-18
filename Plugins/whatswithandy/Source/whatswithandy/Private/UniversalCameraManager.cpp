@@ -23,10 +23,10 @@ FTransform AUniversalCameraManager::GetThirdPersonCameraTransform()
 
 		//Location
 		FVector Loc = (FRotator(0, ControlRot.Yaw, 0).Vector() * -1.0) * ThirdPersonDistance;
-		Loc = ActorLoc + Loc.RotateAngleAxis(Angle, ActorRight);
+		Loc = ActorLoc + Loc.RotateAngleAxis(Angle, ActorRight) + (ActorRight * ThirdPersonOffset.Y) + (FRotator(0,ControlRot.Yaw,0).Vector()*ThirdPersonOffset.X) + FVector(0,0,ThirdPersonOffset.Z);
 		Out.SetLocation(Loc);
 
-		FRotator Rot = UKismetMathLibrary::FindLookAtRotation(Loc, ActorLoc + ThirdPersonLookAtOffset);
+		FRotator Rot = UKismetMathLibrary::FindLookAtRotation(Loc, ActorLoc + (ActorRight * ThirdPersonLookAtOffset.Y) + (FRotator(0,ControlRot.Yaw,0).Vector()*ThirdPersonLookAtOffset.X)+ FVector(0,0,ThirdPersonLookAtOffset.Z));
 		Out.SetRotation(Rot.Quaternion());
 
 	}

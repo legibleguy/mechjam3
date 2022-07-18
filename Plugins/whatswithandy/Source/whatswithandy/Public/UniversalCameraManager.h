@@ -39,13 +39,13 @@ public:
 	UPROPERTY(BlueprintReadWrite)
 		FVector CustomTarget;
 
-	UPROPERTY(EditDefaultsOnly, Category = "Third Person")
+	UPROPERTY(BlueprintReadWrite, EditDefaultsOnly, Category = "Third Person")
 		float ThirdPersonDistance;
 
-	UPROPERTY(EditDefaultsOnly, Category = "Third Person")
-		float ThirdPersonLookAtOffset;
+	UPROPERTY(BlueprintReadWrite, EditDefaultsOnly, Category = "Third Person")
+		FVector ThirdPersonLookAtOffset;
 
-	UPROPERTY(EditDefaultsOnly, Category = "Third Person")
+	UPROPERTY(BlueprintReadWrite, EditDefaultsOnly, Category = "Third Person")
 		FVector ThirdPersonOffset;
 
 	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Top Down")
