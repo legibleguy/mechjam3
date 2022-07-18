@@ -1,122 +1,797 @@
 [
 	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\ALS.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\AlsAnimationInstance.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\AlsCharacter.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\AlsCharacter_Actions.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\AlsCharacter_Debug.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\AlsCharacterMovementComponent.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\AlsLinkedAnimationInstance.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\ALSModule.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\ALSModule.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\Node\\AlsAnimNode_CurvesBlend.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\Node\\AlsAnimNode_GameplayTagsBlend.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\Node\\AlsAnimNode_SuppressAdditiveWarnings.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\Node\\AlsRigUnits.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\Notify\\AlsAnimNotify_FootstepEffects.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\Notify\\AlsAnimNotify_SetGroundedEntryMode.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\Notify\\AlsAnimNotifyState_EarlyBlendOut.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\Notify\\AlsAnimNotifyState_SetLocomotionAction.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\Notify\\AlsAnimNotifyState_SetRootMotionScale.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\RootMotionSource\\AlsRootMotionSource_Mantling.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\Settings\\AlsAnimationInstanceSettings.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\Settings\\AlsCharacterSettings.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\Utility\\AlsGameplayTags.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\Utility\\AlsLog.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\Utility\\AlsMath.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Private\\Utility\\AlsUtility.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\AlsAnimationInstance.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\AlsCharacter.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\AlsCharacterMovementComponent.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\AlsLinkedAnimationInstance.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Node\\AlsAnimNode_CurvesBlend.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Node\\AlsAnimNode_GameplayTagsBlend.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Node\\AlsAnimNode_SuppressAdditiveWarnings.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Node\\AlsRigUnits.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Notify\\AlsAnimNotify_FootstepEffects.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Notify\\AlsAnimNotify_SetGroundedEntryMode.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Notify\\AlsAnimNotifyState_EarlyBlendOut.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Notify\\AlsAnimNotifyState_SetLocomotionAction.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Notify\\AlsAnimNotifyState_SetRootMotionScale.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\RootMotionSource\\AlsRootMotionSource_Mantling.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Settings\\AlsAnimationInstanceSettings.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Settings\\AlsCharacterSettings.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Settings\\AlsFeetSettings.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Settings\\AlsGeneralAnimationSettings.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Settings\\AlsGroundedSettings.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Settings\\AlsInAirRotationMode.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Settings\\AlsInAirSettings.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Settings\\AlsMantlingSettings.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Settings\\AlsMovementSettings.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Settings\\AlsRagdollingSettings.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Settings\\AlsRollingSettings.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Settings\\AlsRotateInPlaceSettings.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Settings\\AlsTransitionsSettings.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Settings\\AlsTurnInPlaceSettings.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Settings\\AlsViewAnimationSettings.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Settings\\AlsViewSettings.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\State\\AlsFeetState.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\State\\AlsGroundedState.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\State\\AlsInAirState.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\State\\AlsLayeringState.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\State\\AlsLeanState.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\State\\AlsLocomotionAnimationState.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\State\\AlsLocomotionState.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\State\\AlsMovementDirection.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\State\\AlsPoseState.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\State\\AlsRagdollingAnimationState.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\State\\AlsRagdollingState.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\State\\AlsRollingState.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\State\\AlsRotateInPlaceState.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\State\\AlsTransitionsState.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\State\\AlsTurnInPlaceState.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\State\\AlsViewAnimationState.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\State\\AlsViewState.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Utility\\AlsConstants.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Utility\\AlsEnumUtility.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Utility\\AlsGameplayTags.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Utility\\AlsLog.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Utility\\AlsMacro.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Utility\\AlsMath.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALS\\Public\\Utility\\AlsUtility.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALS.42.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSCamera\\ALSCamera.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSCamera.43.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSCamera\\Private\\AlsCameraAnimationInstance.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSCamera.43.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSCamera\\Private\\AlsCameraComponent.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSCamera.43.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSCamera\\Private\\AlsCameraComponent_Debug.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSCamera.43.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSCamera\\Private\\ALSCameraModule.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSCamera.43.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSCamera\\Private\\ALSCameraModule.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSCamera.43.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSCamera\\Private\\AlsCameraSettings.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSCamera.43.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSCamera\\Private\\Notify\\AlsAnimNotify_CameraShake.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSCamera.43.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSCamera\\Public\\AlsCameraAnimationInstance.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSCamera.43.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSCamera\\Public\\AlsCameraComponent.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSCamera.43.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSCamera\\Public\\AlsCameraSettings.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSCamera.43.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSCamera\\Public\\Notify\\AlsAnimNotify_CameraShake.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSCamera.43.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSCamera\\Public\\Utility\\AlsCameraConstants.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSCamera.43.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSEditor\\ALSEditor.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSEditor.45.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSEditor\\Private\\AlsAnimationModifier_CalculateRotationYawSpeed.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSEditor.45.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSEditor\\Private\\AlsAnimationModifier_CopyCurves.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSEditor.45.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSEditor\\Private\\AlsAnimationModifier_CreateCurves.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSEditor.45.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSEditor\\Private\\AlsAnimationModifier_CreateLayeringCurves.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSEditor.45.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSEditor\\Private\\AlsAnimGraphNode_CurvesBlend.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSEditor.45.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSEditor\\Private\\AlsAnimGraphNode_GameplayTagsBlend.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSEditor.45.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSEditor\\Private\\AlsAnimGraphNode_SuppressAdditiveWarnings.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSEditor.45.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSEditor\\Private\\ALSEditorModule.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSEditor.45.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSEditor\\Private\\ALSEditorModule.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSEditor.45.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSEditor\\Public\\AlsAnimationModifier_CalculateRotationYawSpeed.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSEditor.45.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSEditor\\Public\\AlsAnimationModifier_CopyCurves.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSEditor.45.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSEditor\\Public\\AlsAnimationModifier_CreateCurves.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSEditor.45.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSEditor\\Public\\AlsAnimationModifier_CreateLayeringCurves.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSEditor.45.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSEditor\\Public\\AlsAnimGraphNode_CurvesBlend.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSEditor.45.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSEditor\\Public\\AlsAnimGraphNode_GameplayTagsBlend.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSEditor.45.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSEditor\\Public\\AlsAnimGraphNode_SuppressAdditiveWarnings.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSEditor.45.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSExtras\\ALSExtras.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSExtras.44.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSExtras\\Private\\AlsAIController.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSExtras.44.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSExtras\\Private\\AlsCharacterExample.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSExtras.44.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSExtras\\Private\\ALSExtrasModule.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSExtras.44.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSExtras\\Private\\ALSExtrasModule.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSExtras.44.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSExtras\\Public\\AlsAIController.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSExtras.44.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\ALS-Refactored\\Source\\ALSExtras\\Public\\AlsCharacterExample.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\ALSExtras.44.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\VehicleSystemPlugin\\Source\\VehicleSystemPlugin\\Private\\VehicleConstraint.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\VehicleSystemPlugin.72.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\VehicleSystemPlugin\\Source\\VehicleSystemPlugin\\Private\\VehicleSystemBase.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\VehicleSystemPlugin.72.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\VehicleSystemPlugin\\Source\\VehicleSystemPlugin\\Private\\VehicleSystemFunctions.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\VehicleSystemPlugin.72.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\VehicleSystemPlugin\\Source\\VehicleSystemPlugin\\Private\\VehicleSystemPlugin.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\VehicleSystemPlugin.72.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\VehicleSystemPlugin\\Source\\VehicleSystemPlugin\\Public\\VehicleConstraint.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\VehicleSystemPlugin.72.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\VehicleSystemPlugin\\Source\\VehicleSystemPlugin\\Public\\VehicleSystemBase.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\VehicleSystemPlugin.72.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\VehicleSystemPlugin\\Source\\VehicleSystemPlugin\\Public\\VehicleSystemFunctions.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\VehicleSystemPlugin.72.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\VehicleSystemPlugin\\Source\\VehicleSystemPlugin\\Public\\VehicleSystemPlugin.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\VehicleSystemPlugin.72.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\VehicleSystemPlugin\\Source\\VehicleSystemPlugin\\VehicleSystemPlugin.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\VehicleSystemPlugin.72.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\whatswithandy\\Source\\whatswithandy\\Private\\PlayerIF.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.40.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.73.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\whatswithandy\\Source\\whatswithandy\\Private\\UniversalCameraManager.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.40.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.73.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\whatswithandy\\Source\\whatswithandy\\Private\\UniversalGameData.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.40.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.73.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\whatswithandy\\Source\\whatswithandy\\Private\\VeryVeryUsefulFuncs.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.40.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.73.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\whatswithandy\\Source\\whatswithandy\\Private\\whatswithandy.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.40.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.73.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\whatswithandy\\Source\\whatswithandy\\Public\\PlayerIF.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.40.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.73.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\whatswithandy\\Source\\whatswithandy\\Public\\UniversalCameraManager.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.40.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.73.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\whatswithandy\\Source\\whatswithandy\\Public\\UniversalGameData.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.40.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.73.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\whatswithandy\\Source\\whatswithandy\\Public\\VeryVeryUsefulFuncs.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.40.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.73.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\whatswithandy\\Source\\whatswithandy\\Public\\whatswithandy.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.40.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.73.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Plugins\\whatswithandy\\Source\\whatswithandy\\whatswithandy.Build.cs",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.40.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\whatswithandy.73.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\MechJam.Build.cs",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.212.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.230.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\MechJam.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.212.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.230.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\MechJam.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.212.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.230.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\MechJamGameModeBase.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.212.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.230.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\MechJamGameModeBase.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.212.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.230.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\Private\\AVS_Mech.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.230.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\Private\\GameCommunication.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.230.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\Private\\HumanoidMech.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.230.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\Private\\MechComponent.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.212.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.230.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\Private\\MechPawn.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.212.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.230.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\Private\\MechPlayerController.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.230.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\Private\\MechTracks.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.212.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.230.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\Private\\MechWheeled.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.230.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\Private\\MovingMechComponent.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.212.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.230.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\Public\\AVS_Mech.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.230.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\Public\\GameCommunication.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.230.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\Public\\HumanoidMech.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.230.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\Public\\MechComponent.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.212.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.230.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\Public\\MechPawn.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.212.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.230.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\Public\\MechPlayerController.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.230.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\Public\\MechTracks.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.212.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.230.rsp",
+		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\Public\\MechWheeled.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.230.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	},
 	{
 		"file": "F:\\Soft\\UE\\Projects\\mechjam3\\Source\\MechJam\\Public\\MovingMechComponent.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.212.rsp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @F:\\Soft\\UE\\Projects\\mechjam3\\.vscode\\compileCommands_MechJam\\MechJam.230.rsp",
 		"directory": "F:\\Soft\\UE\\UE_5.0\\Engine\\Source"
 	}
 ]

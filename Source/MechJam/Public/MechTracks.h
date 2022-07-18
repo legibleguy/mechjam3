@@ -48,5 +48,9 @@ class MECHJAM_API UMechTracks : public UMovingMechComponent
 
 	UPROPERTY()
 		bool WantsToMoveRL;
+
+	protected:
+
+	virtual void BeginPlay() override;
 	
 };

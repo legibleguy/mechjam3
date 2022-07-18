@@ -12,7 +12,7 @@ public class MechJam : ModuleRules
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
-		PublicIncludePaths.AddRange(new string[] {"whatswithandy/Public", "whatswithandy/Classes" });
+		PublicIncludePaths.AddRange(new string[] {"../Plugins/whatswithandy/Source/whatswithandy/Public" });
 
 		// Uncomment if you are using Slate UI
 		// PrivateDependencyModuleNames.AddRange(new string[] { "Slate", "SlateCore" });

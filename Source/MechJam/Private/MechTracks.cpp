@@ -17,6 +17,10 @@ void UMechTracks::MoveRL(float Val){
     CurrRL = Val;
 }
 
+void UMechTracks::BeginPlay(){
+    Super::BeginPlay();
+}
+
 void UMechTracks::TickComponent(float DeltaTime, enum ELevelTick TickType, FActorComponentTickFunction * ThisTickFunction){
     Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
     if(MovementCompRef){
